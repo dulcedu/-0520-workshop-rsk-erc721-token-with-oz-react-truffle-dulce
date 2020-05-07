@@ -623,6 +623,7 @@ an RSKj instance running on your system.
 (await web3.eth.getBlockNumber()).toString()
 
 (await web3.eth.net.getId()).toString()
+.exit
 
 ```
 
@@ -646,6 +647,8 @@ all of the Solidity files that comprise `ERC721Full.sol`.
 truffle-flattener ./node_modules/@openzeppelin/contracts/token/ERC721/ERC721Full.sol > contracts/ERC721Full.sol
 
 less contracts/ERC721Full.sol
+
+.q
 
 ```
 
