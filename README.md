@@ -527,6 +527,11 @@ The addresses of the first 10 wallets in our
 hierarchically deterministic wallet can be obtained now,
 and we write them to a file named `.accounts-testnet`
 
+Enter to the truffle console again
+```bash
+truffle console --network testnet
+```
+then inside the console
 
 ```javascript
 const accounts = Object.keys(web3.currentProvider.wallets)
