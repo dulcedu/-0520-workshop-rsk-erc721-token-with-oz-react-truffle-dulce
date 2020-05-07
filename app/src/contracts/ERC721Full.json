@@ -6928,9 +6928,9 @@
           }
         ],
         "contractDependencies": [
-          562,
           80,
           89,
+          562,
           190
         ],
         "contractKind": "contract",
@@ -16337,9 +16337,9 @@
           }
         ],
         "contractDependencies": [
-          562,
           80,
           89,
+          562,
           190,
           1225,
           1250
@@ -20727,9 +20727,9 @@
           }
         ],
         "contractDependencies": [
-          562,
           80,
           89,
+          562,
           190,
           1225,
           1606
@@ -22768,9 +22768,9 @@
           }
         ],
         "contractDependencies": [
-          562,
           80,
           89,
+          562,
           190,
           1225,
           1250,
@@ -29452,9 +29452,9 @@
           }
         ],
         "contractDependencies": [
-          562,
           80,
           89,
+          562,
           190
         ],
         "contractKind": "contract",
@@ -38861,9 +38861,9 @@
           }
         ],
         "contractDependencies": [
-          562,
           80,
           89,
+          562,
           190,
           1225,
           1250
@@ -43251,9 +43251,9 @@
           }
         ],
         "contractDependencies": [
-          562,
           80,
           89,
+          562,
           190,
           1225,
           1606
@@ -45292,9 +45292,9 @@
           }
         ],
         "contractDependencies": [
-          562,
           80,
           89,
+          562,
           190,
           1225,
           1250,
@@ -45466,7 +45466,7 @@
   },
   "networks": {},
   "schemaVersion": "3.1.0",
-  "updatedAt": "2020-05-07T22:27:32.577Z",
+  "updatedAt": "2020-05-07T22:58:56.660Z",
   "devdoc": {
     "details": "This implementation includes all the required and some optional functionality of the ERC721 standard Moreover, it includes approve all functionality using operator terminology. * See https://eips.ethereum.org/EIPS/eip-721",
     "methods": {

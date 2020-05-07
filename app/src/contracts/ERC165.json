@@ -6550,9 +6550,9 @@
           }
         ],
         "contractDependencies": [
-          562,
           80,
           89,
+          562,
           190
         ],
         "contractKind": "contract",
@@ -15959,9 +15959,9 @@
           }
         ],
         "contractDependencies": [
-          562,
           80,
           89,
+          562,
           190,
           1225,
           1250
@@ -20349,9 +20349,9 @@
           }
         ],
         "contractDependencies": [
-          562,
           80,
           89,
+          562,
           190,
           1225,
           1606
@@ -22390,9 +22390,9 @@
           }
         ],
         "contractDependencies": [
-          562,
           80,
           89,
+          562,
           190,
           1225,
           1250,
@@ -29074,9 +29074,9 @@
           }
         ],
         "contractDependencies": [
-          562,
           80,
           89,
+          562,
           190
         ],
         "contractKind": "contract",
@@ -38483,9 +38483,9 @@
           }
         ],
         "contractDependencies": [
-          562,
           80,
           89,
+          562,
           190,
           1225,
           1250
@@ -42873,9 +42873,9 @@
           }
         ],
         "contractDependencies": [
-          562,
           80,
           89,
+          562,
           190,
           1225,
           1606
@@ -44914,9 +44914,9 @@
           }
         ],
         "contractDependencies": [
-          562,
           80,
           89,
+          562,
           190,
           1225,
           1250,
@@ -45088,7 +45088,7 @@
   },
   "networks": {},
   "schemaVersion": "3.1.0",
-  "updatedAt": "2020-05-07T22:27:32.519Z",
+  "updatedAt": "2020-05-07T22:58:56.534Z",
   "devdoc": {
     "details": "Implementation of the {IERC165} interface. * Contracts may inherit from this and call {_registerInterface} to declare their support of an interface.",
     "methods": {
