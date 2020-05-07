@@ -20,7 +20,7 @@ if (typeof gasPriceTestnet !== 'number' || isNaN(gasPriceTestnet)) {
   throw new Error('unable to retrieve network gas price from .gas-price-testnet.json');
 }
 
-console.log('mnemonic:', mnemonic);
+//console.log('mnemonic:', mnemonic);
 console.log('gas price on testnet:', gasPriceTestnet);  
 
 module.exports = {
