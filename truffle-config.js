@@ -95,5 +95,7 @@ module.exports = {
       //  evmVersion: "byzantium"
       // }
     }
-  }
+  },
+  contracts_build_directory: path.join(__dirname, 'app/src/contracts')
+
 }
